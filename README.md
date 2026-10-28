@@ -29,7 +29,6 @@ PostgreSQL | Supabase | Prisma | Git | GitHub | Vercel | n8n
 
 | Project | What it does | Stack |
 | --- | --- | --- |
-| [WASL Logistics Marketplace](https://ielyes.vercel.app/projects/wasl-logistics-marketplace) | Arabic-first marketplace connecting surplus logistics resources with businesses | Next.js, React, TypeScript, Fastify, Prisma |
 | [Student Clubs Management System](https://ielyes.vercel.app/projects/student-clubs-management) | Platform for clubs, events, registration, attendance, and participant workflows | Laravel, PHP, Vue.js |
 | [Al-Mansour Legal Platform](https://ielyes.vercel.app/projects/law-firm-website) | Consultation booking, request tracking, and staff administration | Node.js, Express, Supabase |
 | [Bilingual React Portfolio](https://ielyes.vercel.app/projects/bilingual-react-portfolio) | Arabic/English portfolio with RTL support and interactive visuals | React, Vite, Three.js |
